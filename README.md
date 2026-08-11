@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aria Shakoo</h1>
-<h3 align="center">AI Researcher | AI Enthusiast </h3>
+<h3 align="center">AI Researcher | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=Passionate+about+AI+Research+%F0%9F%94%AC;Expert+in+Speech+Processing+%F0%9F%97%A3%EF%B8%8F;Building+Applied+AI+Solutions+%E2%9A%A1;Turning+Theory+into+Practice+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍ About Me
+## 🧑‍💻 About Me
 
 - 🔭 I’m currently building and deploying **Applied AI** solutions that bridge the gap between research and real-world impact.
 - 🗣️ I have a strong, specialized background in **Speech Processing** and audio machine learning.
@@ -21,10 +21,11 @@
   <a href="mailto:ariashakoo1@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/aria-shakoo" target="blank">
+  <a href="https://www.linkedin.com/in/aria-shakoo-1131672b2/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
@@ -79,7 +80,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Ariashakoo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=Ariashakoo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
@@ -92,6 +93,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ariashakoo&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Visit Count" />
-  <p>⚡ Proudly crafted with passion ⚡</p>
+  <img src="https://profile-counter.glitch.me/Ariashakoo/count.svg" alt="Visit Count" />
 </div>
+<p align="center">⚡ Proudly crafted with passion ⚡</p>
+
+
