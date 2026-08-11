@@ -77,10 +77,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ariashakoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ariashakoo/Ariashakoo/output/trophy.svg" alt="Trophies" />
-</p>
+
 
 ---
 
