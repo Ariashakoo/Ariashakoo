@@ -26,7 +26,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🛠️ Tech Stack & Research Tools
@@ -79,9 +78,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=Ariashakoo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ariashakoo/Ariashakoo/output/trophy.svg" alt="Trophies" />
+</p>
 
 ---
 
@@ -92,9 +91,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ariashakoo/count.svg" alt="Visit Count" />
-</div>
 <p align="center">⚡ Proudly crafted with passion ⚡</p>
-
-
