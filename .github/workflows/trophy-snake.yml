@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate snake and trophy
 
 on:
   schedule:
@@ -12,15 +12,25 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
-      - name: generate snake.svg
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ariashakoo
           outputs: dist/snake.svg
 
-      - name: push snake.svg to the output branch
+      - name: Generate trophy.svg
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=Ariashakoo&theme=radical&margin-w=4&no-bg=true&no-frame=false'
+          path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
