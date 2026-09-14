@@ -63,6 +63,27 @@
 
 ---
 
+## 📁 Projects
+
+### 🎓 University Projects
+
+- **[Daneshjooyar_android_app](https://github.com/Ariashakoo/Daneshjooyar_android_app)** — AP Final Project (Java)
+- **[yes-no-question-site](https://github.com/Ariashakoo/yes-no-question-site)** — JavaScript project · [Live Demo](https://astroplus.ir/project/)
+- **[Electric-Fields-of-two-particles](https://github.com/Ariashakoo/Electric-Fields-of-two-particles)** — Short description of this project.
+- **[2-player-snake-game](https://github.com/Ariashakoo/2-player-snake-game)** — 2-player snake game with bombs and sounds for Windows (C++)
+
+### 📄 Paper Projects
+
+- **[Audio-Emotion-Recognition-using-Random-Forest-Classifier](https://github.com/Ariashakoo/Audio-Emotion-Recognition-using-Random-Forest-Classifier)** — Audio emotion recognition model using ML algorithms (Python)
+
+
+### 🛠️ Other Projects
+
+- **[Phone-Book-](https://github.com/Ariashakoo/Phone-Book-)** — Phone book project with desired path (Python)
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,8 +93,6 @@
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ariashakoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-
 
 ---
 
